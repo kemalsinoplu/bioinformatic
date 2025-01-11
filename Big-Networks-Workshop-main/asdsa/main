@@ -1,0 +1,2 @@
+main.py de Trrust human datasetinde AATF sütununda yer alan genleri BAX sütununda yer alan genlerle entegre ettim .
+Ve pythonun matplotlit kütüphanesini kullanarak entegre edilmiş ağ ın görselini çıkarttım.

@@ -1,0 +1,3 @@
+main1.py dosyasınd aise miRTarBase human datasetini kullandım. 
+main.py de kullandığım Trrust datasetindeki Bax sütunu ile main1.py deki miRTarBase datasetini miRNA sütununda yer alan repressis ögeleri entegre ağ oluşturdum. 
+Sonrasında main gibi main1.py yide pythonun matplotlib kütüphanesini kullanarak ağ görselini oluşturdum.
