@@ -1,0 +1,4 @@
+IntAct den dataseti download ettim.
+Dataset olarak makalede de verilen bir örnek olarak yakın geçmişte de yaşanamış bir salgın hastalık olan Corona virüs datasını seçtim.
+Dataset xml yapısında idi.
+Ardından bunu pythonda parse etmeye çalıştım.

@@ -1,0 +1,4 @@
+InnateDb den dataseti aldım.
+Dataset olarak makaledeki gibi hem fare hem insanlarınkini seçtim
+Bunları ayrı ayrı download ettim.
+Pythonda bunları tek çatıda birleştirerek parse ettim ve tek bir output dosyasına dönüştürdüm.

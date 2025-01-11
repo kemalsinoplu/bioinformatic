@@ -1,0 +1,3 @@
+JASPAR datasetini makalede verilen Jaspar’ın sitesinden Individual PFMs i zip dosyası halinde indirdim.
+Tüm DNA nükleotitleri ayrı ayrı şekilde idi.
+Bende Python kodu ile onları birleştirerek tek bir output ta tüm verileri datalayan parsing kodu yazdım.

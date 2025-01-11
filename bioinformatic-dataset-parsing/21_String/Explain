@@ -1,0 +1,4 @@
+String den dataseti indirdim .
+Protein adı olarak PubMed deki makalede örneği verilen TRKa'yı aldım. Sonra onu parse ettim.
+Ardından String sitesinden dataseti çektiğim kısımdan ağ görselleştirme için gerekli dataları aldım.
+Sonra ise Cytoscape den ağ görselleştirme yaptım.

@@ -1,0 +1,3 @@
+TRRust V2 den aldığım mouse ve human datasetlerini indirdim.
+Ardından bu ayrı part olan datasetleri birleştiren bir kod yazdım.
+Ardından bunların hangisi activation, hangileri repression hangileri unkown diye id lerine göre parse işlemi yapan Python dan kodu yazdım.

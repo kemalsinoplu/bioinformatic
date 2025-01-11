@@ -1,0 +1,4 @@
+Recon3D makalesini okuyup oradan verilen siteden dataseti download ettim.
+Dataset xml dosyasında şeklindeydi.
+Bende onu xml den çıkartıp pythonda chapter chapter ayırarak parse işlemi yaptım.
+Dataseti Github a yükleyemedim dosya boyutundan dolayı onu ayarladıktan sonra o da klasorde yer alacaktır.

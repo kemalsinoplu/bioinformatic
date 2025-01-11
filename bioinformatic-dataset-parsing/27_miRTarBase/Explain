@@ -1,0 +1,4 @@
+https://mirtarbase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/php/download.php
+MiRTarBase için olan dataseti bu adresten indirdim.
+Buradan homo sapiens olanları parse eden kodu yazdım.
+Ayrıyaten homo sapiens olanları ayrı bir output dosyası olarak çıkarttım.

@@ -1,0 +1,4 @@
+ 28. makaleden KEGG chapterini okudum . 
+Oradan KEGG sitesine gittim ve makalede viral bozukluklar hakkında bilgi verilmişti
+bende bu yüzden viral genomların datasetini indirdim. dataset xml şekilde idi 
+bu yüzden aşağıdaki gibi parse ettim.
